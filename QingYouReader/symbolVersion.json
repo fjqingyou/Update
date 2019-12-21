@@ -1,0 +1,10 @@
+{
+    "itemList":[
+        {
+            "version" : 1,
+            "display" : "测试",
+            "hostName" : "www.xxx.com",
+            "fileName" : "dddd"
+        }
+    ]
+}

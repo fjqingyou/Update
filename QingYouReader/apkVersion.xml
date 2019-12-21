@@ -2,7 +2,7 @@
     <versionCode>81</versionCode>
     <versionName>2.56.16</versionName>
     <name>QingYouReader</name>
-    <url>https://raw.githubusercontent.com/fjqingyou/Update/master/QingYouReader/QingYouReader.apk</url>
+    <url>https://raw.githubusercontent.com/fjqingyou/Update/master/QingYouReader/apk/QingYouReader.apk</url>
     <QQGroup>104413034</QQGroup>
 
     <!-- -->
@@ -20,4 +20,13 @@
 
         网页链接计算添加//开头的协议
     </info>
+
+    <!-- 拦截的网站 禁止使用的网站域名列表-->
+    <interceptSearchHosts></interceptSearchHosts>
+
+    <!-- 拦截的搜索关键字 禁止使用的搜索关键字-->
+    <interceptSearchKeyReg></interceptSearchKeyReg>
+
+    <!-- 拦截的作者 禁止搜索某些作者-->
+    <authorBanReg></authorBanReg>
 </xml>
