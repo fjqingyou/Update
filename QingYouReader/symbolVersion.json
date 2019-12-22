@@ -1,10 +1,86 @@
 {
+    "removeList":[
+        "www.qu.la",
+        "www.yssm.org",
+        "www.vodtw.com",
+        "www.waixs.com",
+        "www.166zw.com",
+        "www.aiquxs.com",
+        "www.uxiaoshuo.com",
+        "www.uxiaoshuo.com",
+        "www.yankanshu.org",
+        "www.yawen8.com",
+        "www.88zw.com",
+        "www.69shu.com",
+        "www.xs222.com",
+        "www.iqingdou.net",
+        "www.99shumeng.org",
+        "www.biquge.com",
+        "www.dulaidw.com",
+        "www.060780.cc",
+        "www.zhaishuyuan.com",
+        "www.luoqiu.com"
+    ],
     "itemList":[
         {
             "version" : 2,
             "display" : "啃文书库",
             "hostName" : "www.kenwen.com",
             "fileName" : "www.kenwen.com.qySymbol"
+        },
+        {
+            "version":2,
+            "display":"八八读书网",
+            "hostName":"www.88dushu.com",
+            "fileName":"www.88dushu.com.qySymbol"
+        },
+        {
+            "version":2,
+            "display":"黑岩阁",
+            "hostName":"www.heiyange.com",
+            "fileName":"www.heiyange.com.qySymbol"
+        },
+        {
+            "version":1,
+            "display":"猎文网",
+            "hostName": "www.liewen.cc",
+            "fileName" : "www.liewen.cc.qySymbol"
+        },
+        {
+            "version":10,
+            "display":"八一中文网",
+            "hostName":"www.81zw.com",
+            "fileName":"www.81zw.com.qySymbol"
+        },
+        {
+            "version":2,
+            "display":"紫幽阁",
+            "hostName":"www.ziyouge.com",
+            "fileName":"www.ziyouge.com.qySymbol"
+        },
+        {
+            "version":3,
+            "display":"13小说网",
+            "hostName":"www.13xs.com",
+            "fileName":"www.13xs.com.qySymbol"
+        },
+        {
+            "version":1,
+            "display":"吾妖小说网",
+            "hostName":"www.51wook.cn",
+            "fileName":"www.51wook.cn.qySymbol"
+        },
+        {
+            "version":4,
+            "display":"爱尚小说网",
+            "hostName":"www.23hh.la",
+            "fileName":"www.23hh.la.qySymbol"
+        },
+        {
+            "version":1,
+            "display":"斋书院",
+            "hostName":"www.zhaishuyuan.com",
+            "fileName":"www.zhaishuyuan.com.qySymbol"
         }
     ]
 }
