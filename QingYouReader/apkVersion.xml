@@ -3,15 +3,17 @@
     <versionName>2.56.17</versionName>
     <name>QingYouReader</name>
     <url>https://raw.githubusercontent.com/fjqingyou/Update/master/QingYouReader/apk/QingYouReader.apk</url>
-    <QQGroup>104413034</QQGroup>
 
-    <!-- -->
+    <!-- QQ 群-->
+    <QQGroup>QQ群：104413034</QQGroup>
+
+    <!-- 想说的话：显示在QQ群下方-->
     <say></say>
 
     <!-- 更新日志 -->
     <info>
         新增来源网站模板在线更新功能
-        
+
         优化封面的加载
 
         使用github作为更新源
