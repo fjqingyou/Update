@@ -1,6 +1,6 @@
 <xml>
-    <versionCode>82</versionCode>
-    <versionName>2.56.17</versionName>
+    <versionCode>83</versionCode>
+    <versionName>2.56.18</versionName>
     <name>QingYouReader</name>
     <url>https://raw.githubusercontent.com/fjqingyou/Update/master/QingYouReader/apk/QingYouReader.apk</url>
 
@@ -12,11 +12,9 @@
 
     <!-- 更新日志 -->
     <info>
-        新增来源网站模板在线更新功能
-
-        优化封面的加载
-
-        使用github作为更新源
+        搜索模板添加测试关键字
+        
+        导出模板添加可以导出为单独文件的功能-暂时开发者模式下可用
     </info>
 
     <!-- 拦截的网站 禁止使用的网站域名列表-->
