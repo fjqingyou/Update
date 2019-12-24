@@ -1,86 +1,1057 @@
 {
     "removeList":[
-        "www.qu.la",
-        "www.yssm.org",
-        "www.vodtw.com",
-        "www.waixs.com",
-        "www.166zw.com",
-        "www.aiquxs.com",
-        "www.uxiaoshuo.com",
-        "www.uxiaoshuo.com",
-        "www.yankanshu.org",
-        "www.yawen8.com",
-        "www.88zw.com",
-        "www.69shu.com",
-        "www.xs222.com",
-        "www.iqingdou.net",
-        "www.99shumeng.org",
-        "www.biquge.com",
-        "www.dulaidw.com",
-        "www.060780.cc",
-        "www.zhaishuyuan.com",
-        "www.luoqiu.com"
+        "www.qu.la"
     ],
     "itemList":[
         {
-            "version" : 2,
-            "display" : "啃文书库",
-            "hostName" : "www.kenwen.com",
-            "fileName" : "www.kenwen.com.qySymbol"
+            "display": "啃文书库",
+            "fileName": "www.kenwen.com.qySymbol",
+            "hostName": "www.kenwen.com",
+            "version": 11
         },
         {
-            "version":2,
-            "display":"八八读书网",
-            "hostName":"www.88dushu.com",
-            "fileName":"www.88dushu.com.qySymbol"
+            "display": "黑岩阁",
+            "fileName": "www.heiyange.com.qySymbol",
+            "hostName": "www.heiyange.com",
+            "version": 2
         },
         {
-            "version":2,
-            "display":"黑岩阁",
-            "hostName":"www.heiyange.com",
-            "fileName":"www.heiyange.com.qySymbol"
-        },
-        {
-            "version":1,
-            "display":"猎文网",
+            "display": "猎文网",
+            "fileName": "www.liewen.cc.qySymbol",
             "hostName": "www.liewen.cc",
-            "fileName" : "www.liewen.cc.qySymbol"
+            "version": 2
         },
         {
-            "version":10,
-            "display":"八一中文网",
-            "hostName":"www.81zw.com",
-            "fileName":"www.81zw.com.qySymbol"
+            "display": "紫幽阁",
+            "fileName": "www.ziyouge.com.qySymbol",
+            "hostName": "www.ziyouge.com",
+            "version": 2
         },
         {
-            "version":2,
-            "display":"紫幽阁",
-            "hostName":"www.ziyouge.com",
-            "fileName":"www.ziyouge.com.qySymbol"
+            "display": "13小说网",
+            "fileName": "www.13xs.com.qySymbol",
+            "hostName": "www.13xs.com",
+            "version": 3
         },
         {
-            "version":3,
-            "display":"13小说网",
-            "hostName":"www.13xs.com",
-            "fileName":"www.13xs.com.qySymbol"
+            "display": "吾妖小说网",
+            "fileName": "www.51wook.cn.qySymbol",
+            "hostName": "www.51wook.cn",
+            "version": 1
         },
         {
-            "version":1,
-            "display":"吾妖小说网",
-            "hostName":"www.51wook.cn",
-            "fileName":"www.51wook.cn.qySymbol"
+            "display": "爱尚小说网",
+            "fileName": "www.23hh.la.qySymbol",
+            "hostName": "www.23hh.la",
+            "version": 4
         },
         {
-            "version":4,
-            "display":"爱尚小说网",
-            "hostName":"www.23hh.la",
-            "fileName":"www.23hh.la.qySymbol"
+            "display": "斋书院",
+            "fileName": "www.zhaishuyuan.com.qySymbol",
+            "hostName": "www.zhaishuyuan.com",
+            "version": 1
         },
         {
-            "version":1,
-            "display":"斋书院",
-            "hostName":"www.zhaishuyuan.com",
-            "fileName":"www.zhaishuyuan.com.qySymbol"
+            "display": "落秋中文网",
+            "fileName": "www.luoqiu.com.qySymbol",
+            "hostName": "www.luoqiu.com",
+            "version": 2
+        },
+        {
+            "display": "龙坛书网",
+            "fileName": "www.longtanshuw.com.qySymbol",
+            "hostName": "www.longtanshuw.com",
+            "version": 2
+        },
+        {
+            "display": "乐阅读",
+            "fileName": "www.lread.net.qySymbol",
+            "hostName": "www.lread.net",
+            "version": 3
+        },
+        {
+            "display": "笔趣阁_io",
+            "fileName": "www.biqule.com.qySymbol",
+            "hostName": "www.biqule.com",
+            "version": 7
+        },
+        {
+            "display": "笔趣阁_xCom",
+            "fileName": "www.biqugex.com.qySymbol",
+            "hostName": "www.biqugex.com",
+            "version": 5
+        },
+        {
+            "display": "新笔趣阁_xxbiqugeCom",
+            "fileName": "www.xxbiquge.com.qySymbol",
+            "hostName": "www.xxbiquge.com",
+            "version": 6
+        },
+        {
+            "display": "言情美眉",
+            "fileName": "www.qbyqxs.com.qySymbol",
+            "hostName": "www.qbyqxs.com",
+            "version": 2
+        },
+        {
+            "display": "下载楼",
+            "fileName": "www.xiazailou.co.qySymbol",
+            "hostName": "www.xiazailou.co",
+            "version": 11
+        },
+        {
+            "display": "新书包网",
+            "fileName": "www.xinshubao.net.qySymbol",
+            "hostName": "www.xinshubao.net",
+            "version": 5
+        },
+        {
+            "display": "笔趣岛",
+            "fileName": "www.biqudao.com.qySymbol",
+            "hostName": "www.biqudao.com",
+            "version": 2
+        },
+        {
+            "display": "999文学网",
+            "fileName": "www.999wx.com.qySymbol",
+            "hostName": "www.999wx.com",
+            "version": 2
+        },
+        {
+            "display": "卓雅居",
+            "fileName": "www.zhuoyaju.com.qySymbol",
+            "hostName": "www.zhuoyaju.com",
+            "version": 5
+        },
+        {
+            "display": "血红小说网",
+            "fileName": "www.xuehong.cc.qySymbol",
+            "hostName": "www.xuehong.cc",
+            "version": 1
+        },
+        {
+            "display": "飞速中文网",
+            "fileName": "www.feizw.com.qySymbol",
+            "hostName": "www.feizw.com",
+            "version": 3
+        },
+        {
+            "display": "三五中文网",
+            "fileName": "www.555zw.com.qySymbol",
+            "hostName": "www.555zw.com",
+            "version": 1
+        },
+        {
+            "display": "79小说网_书哈哈",
+            "fileName": "www.shuhaha.com.qySymbol",
+            "hostName": "www.shuhaha.com",
+            "version": 1
+        },
+        {
+            "display": "游人小说网",
+            "fileName": "www.gamer84.com.qySymbol",
+            "hostName": "www.gamer84.com",
+            "version": 1
+        },
+        {
+            "display": "爱下电子书",
+            "fileName": "www.ixdzs.com.qySymbol",
+            "hostName": "www.ixdzs.com",
+            "version": 2
+        },
+        {
+            "display": "笔下文学",
+            "fileName": "www.bxwx.la.qySymbol",
+            "hostName": "www.bxwx.la",
+            "version": 2
+        },
+        {
+            "display": "UU看书",
+            "fileName": "www.uukanshu.com.qySymbol",
+            "hostName": "www.uukanshu.com",
+            "version": 3
+        },
+        {
+            "display": "飞翔鸟中文",
+            "fileName": "www.fxnzw.com.qySymbol",
+            "hostName": "www.fxnzw.com",
+            "version": 1
+        },
+        {
+            "display": "万人小说网",
+            "fileName": "www.wanren.tw.qySymbol",
+            "hostName": "www.wanren.tw",
+            "version": 1
+        },
+        {
+            "display": "九头鸟书院",
+            "fileName": "www.9wh.net.qySymbol",
+            "hostName": "www.9wh.net",
+            "version": 1
+        },
+        {
+            "display": "全本小说吧",
+            "fileName": "www.qbxs8.net.qySymbol",
+            "hostName": "www.qbxs8.net",
+            "version": 1
+        },
+        {
+            "display": "八零电子书",
+            "fileName": "www.80txt.com.qySymbol",
+            "hostName": "www.80txt.com",
+            "version": 1
+        },
+        {
+            "display": "少年文学",
+            "fileName": "www.snwx.com.qySymbol",
+            "hostName": "www.snwx.com",
+            "version": 1
+        },
+        {
+            "display": "爪机书屋",
+            "fileName": "www.zhuaji.org.qySymbol",
+            "hostName": "www.zhuaji.org",
+            "version": 4
+        },
+        {
+            "display": "第一版主",
+            "fileName": "www.001bz.in.qySymbol",
+            "hostName": "www.001bz.in",
+            "version": 1
+        },
+        {
+            "display": "新畅想中文网",
+            "fileName": "www.xcxzww.com.qySymbol",
+            "hostName": "www.xcxzww.com",
+            "version": 1
+        },
+        {
+            "display": "书书屋",
+            "fileName": "www.shushuwu.cc.qySymbol",
+            "hostName": "www.shushuwu.cc",
+            "version": 1
+        },
+        {
+            "display": "不可能的世界",
+            "fileName": "www.8kana.com.qySymbol",
+            "hostName": "www.8kana.com",
+            "version": 1
+        },
+        {
+            "display": "乐文520小说",
+            "fileName": "www.lwxs520.com.qySymbol",
+            "hostName": "www.lwxs520.com",
+            "version": 1
+        },
+        {
+            "display": "伏笔小说网",
+            "fileName": "www.fubi8.com.qySymbol",
+            "hostName": "www.fubi8.com",
+            "version": 1
+        },
+        {
+            "display": "微书网",
+            "fileName": "www.103v.com.qySymbol",
+            "hostName": "www.103v.com",
+            "version": 1
+        },
+        {
+            "display": "手牵手小说网",
+            "fileName": "www.sqsxs.com.qySymbol",
+            "hostName": "www.sqsxs.com",
+            "version": 2
+        },
+        {
+            "display": "看齐中文网",
+            "fileName": "www.kan7zw.com.qySymbol",
+            "hostName": "www.kan7zw.com",
+            "version": 1
+        },
+        {
+            "display": "艾牛电子书",
+            "fileName": "www.itmuu6.com.qySymbol",
+            "hostName": "www.itmuu6.com",
+            "version": 1
+        },
+        {
+            "display": "轻小说文库",
+            "fileName": "www.8wenku.com.qySymbol",
+            "hostName": "www.8wenku.com",
+            "version": 2
+        },
+        {
+            "display": "酷书包",
+            "fileName": "www.kushubao.com.qySymbol",
+            "hostName": "www.kushubao.com",
+            "version": 3
+        },
+        {
+            "display": "零点看书",
+            "fileName": "www.00ksw.com.qySymbol",
+            "hostName": "www.00ksw.com",
+            "version": 1
+        },
+        {
+            "display": "妙笔阁",
+            "fileName": "www.miaobige.com.qySymbol",
+            "hostName": "www.miaobige.com",
+            "version": 2
+        },
+        {
+            "display": "星月书吧",
+            "fileName": "www.xyshu8.com.qySymbol",
+            "hostName": "www.xyshu8.com",
+            "version": 1
+        },
+        {
+            "display": "2345小说大全",
+            "fileName": "www.xs2345.com.qySymbol",
+            "hostName": "www.xs2345.com",
+            "version": 1
+        },
+        {
+            "display": "霸气书库",
+            "fileName": "www.baqishuku7.com.qySymbol",
+            "hostName": "www.baqishuku7.com",
+            "version": 1
+        },
+        {
+            "display": "选书网",
+            "fileName": "www.xuanshu.com.qySymbol",
+            "hostName": "www.xuanshu.com",
+            "version": 1
+        },
+        {
+            "display": "uc书盟",
+            "fileName": "www.uctxt.com.qySymbol",
+            "hostName": "www.uctxt.com",
+            "version": 1
+        },
+        {
+            "display": "瓜子小说网",
+            "fileName": "www.gzbpi.com.qySymbol",
+            "hostName": "www.gzbpi.com",
+            "version": 2
+        },
+        {
+            "display": "一本读",
+            "fileName": "www.ybdu.com.qySymbol",
+            "hostName": "www.ybdu.com",
+            "version": 2
+        },
+        {
+            "display": "无忧看书网",
+            "fileName": "www.5uks.com.qySymbol",
+            "hostName": "www.5uks.com",
+            "version": 1
+        },
+        {
+            "display": "经典小说吧",
+            "fileName": "www.jdxsb.net.qySymbol",
+            "hostName": "www.jdxsb.net",
+            "version": 1
+        },
+        {
+            "display": "维普阅读网",
+            "fileName": "www.vipreading.com.qySymbol",
+            "hostName": "www.vipreading.com",
+            "version": 1
+        },
+        {
+            "display": "书迷楼",
+            "fileName": "www.shumilou.co.qySymbol",
+            "hostName": "www.shumilou.co",
+            "version": 1
+        },
+        {
+            "display": "御宅屋",
+            "fileName": "www.yushuwu.net.qySymbol",
+            "hostName": "www.yushuwu.net",
+            "version": 1
+        },
+        {
+            "display": "乡村小说网",
+            "fileName": "www.xiangcunxiaoshuo.com.qySymbol",
+            "hostName": "www.xiangcunxiaoshuo.com",
+            "version": 1
+        },
+        {
+            "display": "小小书屋",
+            "fileName": "www.xiaoxiaoshuwu.com.qySymbol",
+            "hostName": "www.xiaoxiaoshuwu.com",
+            "version": 1
+        },
+        {
+            "display": "书林文学",
+            "fileName": "www.shu008.com.qySymbol",
+            "hostName": "www.shu008.com",
+            "version": 1
+        },
+        {
+            "display": "爱读读小说网",
+            "fileName": "www.aidudu.net.qySymbol",
+            "hostName": "www.aidudu.net",
+            "version": 1
+        },
+        {
+            "display": "木鱼哥",
+            "fileName": "www.muyuge.com.qySymbol",
+            "hostName": "www.muyuge.com",
+            "version": 4
+        },
+        {
+            "display": "杂志虫",
+            "fileName": "www.zineworm.com.qySymbol",
+            "hostName": "www.zineworm.com",
+            "version": 1
+        },
+        {
+            "display": "风华居",
+            "fileName": "www.fenghuaju.cc.qySymbol",
+            "hostName": "www.fenghuaju.cc",
+            "version": 2
+        },
+        {
+            "display": "大家读书院",
+            "fileName": "www.dajiadu.net.qySymbol",
+            "hostName": "www.dajiadu.net",
+            "version": 3
+        },
+        {
+            "display": "去读读",
+            "fileName": "www.qududu.net.qySymbol",
+            "hostName": "www.qududu.net",
+            "version": 1
+        },
+        {
+            "display": "读万卷",
+            "fileName": "www.duwanjuan.com.qySymbol",
+            "hostName": "www.duwanjuan.com",
+            "version": 1
+        },
+        {
+            "display": "三联文学网",
+            "fileName": "www.gdsanlian.com.qySymbol",
+            "hostName": "www.gdsanlian.com",
+            "version": 1
+        },
+        {
+            "display": "书阅屋",
+            "fileName": "www.09xs.com.qySymbol",
+            "hostName": "www.09xs.com",
+            "version": 1
+        },
+        {
+            "display": "爱有声",
+            "fileName": "www.aiyousheng.com.qySymbol",
+            "hostName": "www.aiyousheng.com",
+            "version": 2
+        },
+        {
+            "display": "书轩网",
+            "fileName": "www.bookxuan.com.qySymbol",
+            "hostName": "www.bookxuan.com",
+            "version": 2
+        },
+        {
+            "display": "平板电子书",
+            "fileName": "www.pbtxt.com.qySymbol",
+            "hostName": "www.pbtxt.com",
+            "version": 1
+        },
+        {
+            "display": "88小说网",
+            "fileName": "www.88xiaoshuo.com.qySymbol",
+            "hostName": "www.88xiaoshuo.com",
+            "version": 1
+        },
+        {
+            "display": "书包网",
+            "fileName": "www.bookbao8.com.qySymbol",
+            "hostName": "www.bookbao8.com",
+            "version": 1
+        },
+        {
+            "display": "座位小说网",
+            "fileName": "www.zuowe.com.qySymbol",
+            "hostName": "www.zuowe.com",
+            "version": 1
+        },
+        {
+            "display": "豆豆小说阅读网",
+            "fileName": "www.ddshu.net.qySymbol",
+            "hostName": "www.ddshu.net",
+            "version": 1
+        },
+        {
+            "display": "笔趣库",
+            "fileName": "www.biquku.co.qySymbol",
+            "hostName": "www.biquku.co",
+            "version": 1
+        },
+        {
+            "display": "落霞小说网",
+            "fileName": "www.luoxia.com.qySymbol",
+            "hostName": "www.luoxia.com",
+            "version": 1
+        },
+        {
+            "display": "顶点小说_23us",
+            "fileName": "www.23us.cc.qySymbol",
+            "hostName": "www.23us.cc",
+            "version": 1
+        },
+        {
+            "display": "扔书网",
+            "fileName": "www.rengshu.com.qySymbol",
+            "hostName": "www.rengshu.com",
+            "version": 1
+        },
+        {
+            "display": "上书网",
+            "fileName": "www.shangshu.cc.qySymbol",
+            "hostName": "www.shangshu.cc",
+            "version": 1
+        },
+        {
+            "display": "青豆小说网",
+            "fileName": "www.xqingdou.net.qySymbol",
+            "hostName": "www.xqingdou.net",
+            "version": 3
+        },
+        {
+            "display": "大海中文网",
+            "fileName": "www.dhzw.com.qySymbol",
+            "hostName": "www.dhzw.com",
+            "version": 1
+        },
+        {
+            "display": "悠读文学网",
+            "fileName": "www.yooread.com.qySymbol",
+            "hostName": "www.yooread.com",
+            "version": 2
+        },
+        {
+            "display": "南山书院",
+            "fileName": "www.szyangxiao.net.qySymbol",
+            "hostName": "www.szyangxiao.net",
+            "version": 1
+        },
+        {
+            "display": "桑舞小说网",
+            "fileName": "www.sangwu123.com.qySymbol",
+            "hostName": "www.sangwu123.com",
+            "version": 1
+        },
+        {
+            "display": "乐文小说网_lewenxiaoshuo",
+            "fileName": "www.lewenxiaoshuo.com.qySymbol",
+            "hostName": "www.lewenxiaoshuo.com",
+            "version": 2
+        },
+        {
+            "display": "书吧小说网",
+            "fileName": "shu8.cc.qySymbol",
+            "hostName": "shu8.cc",
+            "version": 1
+        },
+        {
+            "display": "武林中文网",
+            "fileName": "www.50zw.la.qySymbol",
+            "hostName": "www.50zw.la",
+            "version": 4
+        },
+        {
+            "display": "看书阁",
+            "fileName": "www.kanshuge.la.qySymbol",
+            "hostName": "www.kanshuge.la",
+            "version": 1
+        },
+        {
+            "display": "零零看书",
+            "fileName": "www.00kxs.com.qySymbol",
+            "hostName": "www.00kxs.com",
+            "version": 1
+        },
+        {
+            "display": "乐读窝",
+            "fileName": "www.leduwo.com.qySymbol",
+            "hostName": "www.leduwo.com",
+            "version": 1
+        },
+        {
+            "display": "随梦小说网",
+            "fileName": "www.suimeng.la.qySymbol",
+            "hostName": "www.suimeng.la",
+            "version": 1
+        },
+        {
+            "display": "恋上你看书网",
+            "fileName": "www.630book.la.qySymbol",
+            "hostName": "www.630book.la",
+            "version": 2
+        },
+        {
+            "display": "骑士小说网",
+            "fileName": "www.xs74.com.qySymbol",
+            "hostName": "www.xs74.com",
+            "version": 2
+        },
+        {
+            "display": "书阁网",
+            "fileName": "www.shuge.net.qySymbol",
+            "hostName": "www.shuge.net",
+            "version": 1
+        },
+        {
+            "display": "爱豆看书",
+            "fileName": "www.26ksw.com.qySymbol",
+            "hostName": "www.26ksw.com",
+            "version": 1
+        },
+        {
+            "display": "蒲公英中文网",
+            "fileName": "www.pgyzw.com.qySymbol",
+            "hostName": "www.pgyzw.com",
+            "version": 1
+        },
+        {
+            "display": "言情后花园",
+            "fileName": "www.yqhhy.cc.qySymbol",
+            "hostName": "www.yqhhy.cc",
+            "version": 1
+        },
+        {
+            "display": "凤凰小说网",
+            "fileName": "www.fhxiaoshuo.com.qySymbol",
+            "hostName": "www.fhxiaoshuo.com",
+            "version": 1
+        },
+        {
+            "display": "一流书屋",
+            "fileName": "www.16book.org.qySymbol",
+            "hostName": "www.16book.org",
+            "version": 1
+        },
+        {
+            "display": "第九中文",
+            "fileName": "www.d9cn.net.qySymbol",
+            "hostName": "www.d9cn.net",
+            "version": 5
+        },
+        {
+            "display": "轻之文库",
+            "fileName": "www.linovel.net.qySymbol",
+            "hostName": "www.linovel.net",
+            "version": 1
+        },
+        {
+            "display": "电子书屋",
+            "fileName": "www.jdjs.biz.qySymbol",
+            "hostName": "www.jdjs.biz",
+            "version": 1
+        },
+        {
+            "display": "大大中文",
+            "fileName": "www.dadazw.com.qySymbol",
+            "hostName": "www.dadazw.com",
+            "version": 2
+        },
+        {
+            "display": "79小说网_书哈哈",
+            "fileName": "www.79xs.com.qySymbol",
+            "hostName": "www.79xs.com",
+            "version": 2
+        },
+        {
+            "display": "少年文学",
+            "fileName": "www.snwx8.com.qySymbol",
+            "hostName": "www.snwx8.com",
+            "version": 3
+        },
+        {
+            "display": "笔趣库",
+            "fileName": "www.37zw.net.qySymbol",
+            "hostName": "www.37zw.net",
+            "version": 3
+        },
+        {
+            "display": "舞若小说网",
+            "fileName": "www.wuruo.com.qySymbol",
+            "hostName": "www.wuruo.com",
+            "version": 1
+        },
+        {
+            "display": "要看书",
+            "fileName": "www.ykanshu.com.qySymbol",
+            "hostName": "www.ykanshu.com",
+            "version": 2
+        },
+        {
+            "display": "uu小说",
+            "fileName": "www.uuxs.la.qySymbol",
+            "hostName": "www.uuxs.la",
+            "version": 2
+        },
+        {
+            "display": "书楼小说网",
+            "fileName": "www.shulouxs.com.qySymbol",
+            "hostName": "www.shulouxs.com",
+            "version": 5
+        },
+        {
+            "display": "飘天文学网",
+            "fileName": "www.piaotian.com.qySymbol",
+            "hostName": "www.piaotian.com",
+            "version": 5
+        },
+        {
+            "display": "猫扑中文",
+            "fileName": "www.maopuzw.com.qySymbol",
+            "hostName": "www.maopuzw.com",
+            "version": 2
+        },
+        {
+            "display": "星月书吧",
+            "fileName": "www.xy48.net.qySymbol",
+            "hostName": "www.xy48.net",
+            "version": 3
+        },
+        {
+            "display": "免费小说网",
+            "fileName": "www.freexs.org.qySymbol",
+            "hostName": "www.freexs.org",
+            "version": 11
+        },
+        {
+            "display": "步云小说网",
+            "fileName": "www.81book.org.qySymbol",
+            "hostName": "www.81book.org",
+            "version": 3
+        },
+        {
+            "display": "望书阁",
+            "fileName": "www.wangshu.la.qySymbol",
+            "hostName": "www.wangshu.la",
+            "version": 2
+        },
+        {
+            "display": "云轩阁",
+            "fileName": "www.yxgxz.com.qySymbol",
+            "hostName": "www.yxgxz.com",
+            "version": 3
+        },
+        {
+            "display": "笔趣阁",
+            "fileName": "www.biqubao.com.qySymbol",
+            "hostName": "www.biqubao.com",
+            "version": 1
+        },
+        {
+            "display": "笔趣阁官网",
+            "fileName": "www.biqugess.cc.qySymbol",
+            "hostName": "www.biqugess.cc",
+            "version": 6
+        },
+        {
+            "display": "AB小说网",
+            "fileName": "www.abxsw.la.qySymbol",
+            "hostName": "www.abxsw.la",
+            "version": 5
+        },
+        {
+            "display": "乐文小说",
+            "fileName": "www.tushumi.com.qySymbol",
+            "hostName": "www.tushumi.com",
+            "version": 3
+        },
+        {
+            "display": "起点中文网",
+            "fileName": "www.qidian.com.qySymbol",
+            "hostName": "www.qidian.com",
+            "version": 1
+        },
+        {
+            "display": "番茄小说",
+            "fileName": "www.fqxsw.com.qySymbol",
+            "hostName": "www.fqxsw.com",
+            "version": 6
+        },
+        {
+            "display": "吾读小说网",
+            "fileName": "www.5du5.com.qySymbol",
+            "hostName": "www.5du5.com",
+            "version": 2
+        },
+        {
+            "display": "U8小说",
+            "fileName": "www.u8xs.com.qySymbol",
+            "hostName": "www.u8xs.com",
+            "version": 3
+        },
+        {
+            "display": "棉花糖小说网_la",
+            "fileName": "www.mianhuatang.la.qySymbol",
+            "hostName": "www.mianhuatang.la",
+            "version": 2
+        },
+        {
+            "display": "顶点小说_23wx.com",
+            "fileName": "www.23wx.com.qySymbol",
+            "hostName": "www.23wx.com",
+            "version": 4
+        },
+        {
+            "display": "Q猪文学站",
+            "fileName": "www.qzread.com.qySymbol",
+            "hostName": "www.qzread.com",
+            "version": 1
+        },
+        {
+            "display": "要看书_cc",
+            "fileName": "www.1kanshu.cc.qySymbol",
+            "hostName": "www.1kanshu.cc",
+            "version": 1
+        },
+        {
+            "display": "可乐小说网",
+            "fileName": "www.klxsw.com.qySymbol",
+            "hostName": "www.klxsw.com",
+            "version": 1
+        },
+        {
+            "display": "笔趣库",
+            "fileName": "www.37zw.com.qySymbol",
+            "hostName": "www.37zw.com",
+            "version": 2
+        },
+        {
+            "display": "书荒啦",
+            "fileName": "www.shuhuangla.com.qySymbol",
+            "hostName": "www.shuhuangla.com",
+            "version": 3
+        },
+        {
+            "display": "幼狮书盟",
+            "fileName": "www.yssm.org.qySymbol",
+            "hostName": "www.yssm.org",
+            "version": 2
+        },
+        {
+            "display": "品书网",
+            "fileName": "www.vodtw.com.qySymbol",
+            "hostName": "www.vodtw.com",
+            "version": 2
+        },
+        {
+            "display": "166中文网",
+            "fileName": "www.166zw.com.qySymbol",
+            "hostName": "www.166zw.com",
+            "version": 2
+        },
+        {
+            "display": "爱去小说网",
+            "fileName": "www.aiquxs.com.qySymbol",
+            "hostName": "www.aiquxs.com",
+            "version": 1
+        },
+        {
+            "display": "U小说网",
+            "fileName": "www.uxiaoshuo.com.qySymbol",
+            "hostName": "www.uxiaoshuo.com",
+            "version": 4
+        },
+        {
+            "display": "快眼看书",
+            "fileName": "www.yankanshu.org.qySymbol",
+            "hostName": "www.yankanshu.org",
+            "version": 1
+        },
+        {
+            "display": "雅文言情小说吧",
+            "fileName": "www.yawen8.com.qySymbol",
+            "hostName": "www.yawen8.com",
+            "version": 2
+        },
+        {
+            "display": "巴巴中文",
+            "fileName": "www.88zw.com.qySymbol",
+            "hostName": "www.88zw.com",
+            "version": 1
+        },
+        {
+            "display": "69书吧",
+            "fileName": "www.69shu.com.qySymbol",
+            "hostName": "www.69shu.com",
+            "version": 8
+        },
+        {
+            "display": "顶点小说网_xs222Com",
+            "fileName": "www.xs222.com.qySymbol",
+            "hostName": "www.xs222.com",
+            "version": 7
+        },
+        {
+            "display": "青豆小说网",
+            "fileName": "www.iqingdou.net.qySymbol",
+            "hostName": "www.iqingdou.net",
+            "version": 2
+        },
+        {
+            "display": "九九书盟",
+            "fileName": "www.99shumeng.org.qySymbol",
+            "hostName": "www.99shumeng.org",
+            "version": 2
+        },
+        {
+            "display": "笔读阁",
+            "fileName": "www.biduge.com.qySymbol",
+            "hostName": "www.biduge.com",
+            "version": 1
+        },
+        {
+            "display": "读来读往",
+            "fileName": "www.dulaidw.com.qySymbol",
+            "hostName": "www.dulaidw.com",
+            "version": 4
+        },
+        {
+            "display": "如聚阁",
+            "fileName": "www.060780.cc.qySymbol",
+            "hostName": "www.060780.cc",
+            "version": 3
+        },
+        {
+            "display": "33言情小说",
+            "fileName": "www.33yq.com.qySymbol",
+            "hostName": "www.33yq.com",
+            "version": 1
+        },
+        {
+            "display": "E小说",
+            "fileName": "www.zwda.com.qySymbol",
+            "hostName": "www.zwda.com",
+            "version": 1
+        },
+        {
+            "display": "大书包",
+            "fileName": "www.dashubao.net.qySymbol",
+            "hostName": "www.dashubao.net",
+            "version": 2
+        },
+        {
+            "display": "歪小说",
+            "fileName": "www.wxs.la.qySymbol",
+            "hostName": "www.wxs.la",
+            "version": 2
+        },
+        {
+            "display": "歪小说",
+            "fileName": "www.waixs.com.qySymbol",
+            "hostName": "www.waixs.com",
+            "version": 1
+        },
+        {
+            "display": "读趣网",
+            "fileName": "www.du7.org.qySymbol",
+            "hostName": "www.du7.org",
+            "version": 1
+        },
+        {
+            "display": "八八读书网",
+            "fileName": "www.88dus.com.qySymbol",
+            "hostName": "www.88dus.com",
+            "version": 4
+        },
+        {
+            "display": "二五零书院",
+            "fileName": "www.250sy.cc.qySymbol",
+            "hostName": "www.250sy.cc",
+            "version": 2
+        },
+        {
+            "display": "配合其它书源搜索使用",
+            "fileName": "67.216.192.203:8081.qySymbol",
+            "hostName": "67.216.192.203:8081",
+            "version": 1
+        },
+        {
+            "display": "八一中文网",
+            "fileName": "www.zwdu.com.qySymbol",
+            "hostName": "www.zwdu.com",
+            "version": 11
+        },
+        {
+            "display": "燃文小说网",
+            "fileName": "www.ranwena.com.qySymbol",
+            "hostName": "www.ranwena.com",
+            "version": 3
+        },
+        {
+            "display": "雅文言情小说吧",
+            "fileName": "www.yawenb.com.qySymbol",
+            "hostName": "www.yawenb.com",
+            "version": 3
+        },
+        {
+            "display": "BL小说网",
+            "fileName": "www.bl5xs.net.qySymbol",
+            "hostName": "www.bl5xs.net",
+            "version": 3
+        },
+        {
+            "display": "新笔下文学_la",
+            "fileName": "www.xbxwx.net.qySymbol",
+            "hostName": "www.xbxwx.net",
+            "version": 3
+        },
+        {
+            "display": "零点看书",
+            "fileName": "www.1200ksw.com.qySymbol",
+            "hostName": "www.1200ksw.com",
+            "version": 2
+        },
+        {
+            "display": "御宅屋",
+            "fileName": "www.yushuwu.com.qySymbol",
+            "hostName": "www.yushuwu.com",
+            "version": 3
+        },
+        {
+            "display": "动漫之家",
+            "fileName": "xs.dmzj.com.qySymbol",
+            "hostName": "xs.dmzj.com",
+            "version": 1
+        },
+        {
+            "display": "思路客",
+            "fileName": "www.siluke.tw.qySymbol",
+            "hostName": "www.siluke.tw",
+            "version": 3
+        },
+        {
+            "display": "九九书盟",
+            "fileName": "www.99shumeng.net.qySymbol",
+            "hostName": "www.99shumeng.net",
+            "version": 3
+        },
+        {
+            "display": "13小说网",
+            "fileName": "www.13xs.net.qySymbol",
+            "hostName": "www.13xs.net",
+            "version": 4
+        },
+        {
+            "display": "八八读书网",
+            "fileName": "www.88dushu.com.qySymbol",
+            "hostName": "www.88dushu.com",
+            "version": 2
+        },
+        {
+            "display": "八一中文网",
+            "fileName": "www.81zw.com.qySymbol",
+            "hostName": "www.81zw.com",
+            "version": 10
         }
     ]
 }
