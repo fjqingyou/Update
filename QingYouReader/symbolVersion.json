@@ -1,8 +1,8 @@
 {
-    "removeList":[
+    "removeHostNameList":[
         "www.qu.la"
     ],
-    "itemList":[
+    "updateItemList":[
         {
             "display": "啃文书库",
             "fileName": "www.kenwen.com.qySymbol",
