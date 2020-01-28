@@ -1,6 +1,6 @@
 <xml>
-    <versionCode>83</versionCode>
-    <versionName>2.56.18</versionName>
+    <versionCode>84</versionCode>
+    <versionName>2.56.19</versionName>
     <name>QingYouReader</name>
     <url>https://raw.githubusercontent.com/fjqingyou/Update/master/QingYouReader/apk/QingYouReader.apk</url>
 
@@ -12,9 +12,7 @@
 
     <!-- 更新日志 -->
     <info>
-        搜索模板添加测试关键字
-        
-        导出模板添加可以导出为单独文件的功能-暂时开发者模式下可用
+        修复搜索小说，在简介页面选择来源能切换成功，导致可能导致保存失败的问题
     </info>
 
     <!-- 拦截的网站 禁止使用的网站域名列表-->
