@@ -5,6 +5,12 @@
     ],
     "updateItemList":[
         {
+            "display": "笔趣阁_io",
+            "fileName": "www.biqule8.com.qySymbol",
+            "hostName": "www.biqule8.com",
+            "version": 8
+        },
+        {
             "display": "啃文书库",
             "fileName": "www.kenwen.com.qySymbol",
             "hostName": "www.kenwen.com",
