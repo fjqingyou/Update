@@ -5,6 +5,12 @@
     ],
     "updateItemList":[
         {
+            "display": "笔趣阁_biqu6.Com",
+            "fileName": "www.biqu6.com.qySymbol",
+            "hostName": "www.biqu6.com",
+            "version": 1
+        },
+        {
             "display": "笔趣阁_io",
             "fileName": "www.biqule8.com.qySymbol",
             "hostName": "www.biqule8.com",
