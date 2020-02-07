@@ -1,6 +1,7 @@
 {
     "removeHostNameList":[
-        "www.qu.la"
+        "www.qu.la",
+        "www.biqugex.com"
     ],
     "updateItemList":[
         {
@@ -74,12 +75,6 @@
             "fileName": "www.biqule.com.qySymbol",
             "hostName": "www.biqule.com",
             "version": 7
-        },
-        {
-            "display": "笔趣阁_xCom",
-            "fileName": "www.biqugex.com.qySymbol",
-            "hostName": "www.biqugex.com",
-            "version": 5
         },
         {
             "display": "新笔趣阁_xxbiqugeCom",
