@@ -1,6 +1,6 @@
 <xml>
-    <versionCode>85</versionCode>
-    <versionName>2.56.20</versionName>
+    <versionCode>86</versionCode>
+    <versionName>2.56.21</versionName>
     <name>QingYouReader</name>
     <url>https://raw.githubusercontent.com/fjqingyou/Update/master/QingYouReader/apk/QingYouReader.apk</url>
 
@@ -12,13 +12,11 @@
 
     <!-- 更新日志 -->
     <info>
-        优化书页选取来源预读章节目录功能
+        处理书页上预读到的最新章节名称没显示的问题
+
+        修复阅读章节换章监测到更新没提示也没刷新界面问题
         
-        优化每次在书页关闭屏幕再打开会重新加载问题
-
-        系统设置界面底部添加显示app当前版本号的功能
-
-        修复重新下载当前章节没进度提示问题
+        修复换源下载进度条没实时更新有倒退问题
     </info>
 
     <!-- 拦截的网站 禁止使用的网站域名列表-->
