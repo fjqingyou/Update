@@ -1,6 +1,6 @@
 <xml>
-    <versionCode>87</versionCode>
-    <versionName>2.56.22</versionName>
+    <versionCode>88</versionCode>
+    <versionName>2.56.23</versionName>
     <name>QingYouReader</name>
     <url>https://raw.githubusercontent.com/fjqingyou/Update/master/QingYouReader/apk/QingYouReader.apk</url>
 
@@ -12,6 +12,10 @@
 
     <!-- 更新日志 -->
     <info>
+        修复来源网站模板有些无法更新的问题
+
+        以下是 v2.56.22 的部分，因为两个版本更新间隔短，更新内容一起显示在这里
+
         优化导入本地文件章节标题识别
 
         优化导入txt作者识别
