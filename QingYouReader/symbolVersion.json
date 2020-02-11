@@ -109,6 +109,12 @@
     ],
     "updateItemList":[
         {
+            "display": "燃文小说网",
+            "fileName": "www.ranwen.la.qySymbol",
+            "hostName": "www.ranwen.la",
+            "version": 4
+        },
+        {
             "display": "乐读窝",
             "fileName": "www.leduwoxiaoshuo.com.qySymbol",
             "hostName": "www.leduwoxiaoshuo.com",
@@ -503,12 +509,6 @@
             "fileName": "www.zwdu.com.qySymbol",
             "hostName": "www.zwdu.com",
             "version": 11
-        },
-        {
-            "display": "燃文小说网",
-            "fileName": "www.ranwena.com.qySymbol",
-            "hostName": "www.ranwena.com",
-            "version": 3
         },
         {
             "display": "新笔下文学_la",
