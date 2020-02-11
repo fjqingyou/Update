@@ -331,12 +331,6 @@
             "version": 1
         },
         {
-            "display": "三联文学网",
-            "fileName": "www.gdsanlian.com.qySymbol",
-            "hostName": "www.gdsanlian.com",
-            "version": 1
-        },
-        {
             "display": "爱有声",
             "fileName": "www.aiyousheng.com.qySymbol",
             "hostName": "www.aiyousheng.com",
@@ -347,12 +341,6 @@
             "fileName": "www.bookxuan.com.qySymbol",
             "hostName": "www.bookxuan.com",
             "version": 2
-        },
-        {
-            "display": "平板电子书",
-            "fileName": "www.pbtxt.com.qySymbol",
-            "hostName": "www.pbtxt.com",
-            "version": 1
         },
         {
             "display": "书包网",
