@@ -109,6 +109,18 @@
     ],
     "updateItemList":[
         {
+            "display": "乐读窝",
+            "fileName": "www.leduwoxiaoshuo.com.qySymbol",
+            "hostName": "www.leduwoxiaoshuo.com",
+            "version": 2
+        },
+        {
+            "display": "笔趣阁官网",
+            "fileName": "www.biquge9.cc.qySymbol",
+            "hostName": "www.biquge9.cc",
+            "version": 7
+        },
+        {
             "display": "笔趣阁_biqu6.Com",
             "fileName": "www.biqu6.com.qySymbol",
             "hostName": "www.biqu6.com",
@@ -379,12 +391,6 @@
             "version": 1
         },
         {
-            "display": "乐读窝",
-            "fileName": "www.leduwo.com.qySymbol",
-            "hostName": "www.leduwo.com",
-            "version": 1
-        },
-        {
             "display": "轻之文库",
             "fileName": "www.linovel.net.qySymbol",
             "hostName": "www.linovel.net",
@@ -437,12 +443,6 @@
             "fileName": "www.biqubao.com.qySymbol",
             "hostName": "www.biqubao.com",
             "version": 1
-        },
-        {
-            "display": "笔趣阁官网",
-            "fileName": "www.biqugess.cc.qySymbol",
-            "hostName": "www.biqugess.cc",
-            "version": 6
         },
         {
             "display": "Q猪文学站",
