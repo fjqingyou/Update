@@ -1,6 +1,6 @@
 <xml>
-    <versionCode>88</versionCode>
-    <versionName>2.56.23</versionName>
+    <versionCode>89</versionCode>
+    <versionName>2.56.24</versionName>
     <name>QingYouReader</name>
     <url>https://raw.githubusercontent.com/fjqingyou/Update/master/QingYouReader/apk/QingYouReader.apk</url>
 
@@ -12,17 +12,21 @@
 
     <!-- 更新日志 -->
     <info>
-        修复来源网站模板有些无法更新的问题
+        优化网络书源缓存方案
 
-        以下是 v2.56.22 的部分，因为两个版本更新间隔短，更新内容一起显示在这里
+        网络书源页面点击目标变更为搜索目标，获取更多来源
 
-        优化导入本地文件章节标题识别
+        修复网络书源页面显示不出来的问题
 
-        优化导入txt作者识别
+        修复首页加载中提示没显示问题
 
-        优化文件路径导入识别方案
+        首页网站去掉无效的源
 
-        优化文件编码识别方案
+        优化临时文件的处理
+
+        模板编辑界面添加旧的域名编辑支持
+
+        修复来源网站模板管理搜索进入编辑再回来丢失搜索结果问题
     </info>
 
     <!-- 拦截的网站 禁止使用的网站域名列表-->
