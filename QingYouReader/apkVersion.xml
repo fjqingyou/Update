@@ -1,6 +1,6 @@
 <xml>
-    <versionCode>89</versionCode>
-    <versionName>2.56.24</versionName>
+    <versionCode>90</versionCode>
+    <versionName>2.56.25</versionName>
     <name>QingYouReader</name>
     <url>https://raw.githubusercontent.com/fjqingyou/Update/master/QingYouReader/apk/QingYouReader.apk</url>
 
@@ -12,21 +12,13 @@
 
     <!-- 更新日志 -->
     <info>
-        优化网络书源缓存方案
+        修复局域网共享阅读功能与接受分享功能不正常工作问题；
 
-        网络书源页面点击目标变更为搜索目标，获取更多来源
+        Cookie持久化；
 
-        修复网络书源页面显示不出来的问题
-
-        修复首页加载中提示没显示问题
-
-        首页网站去掉无效的源
-
-        优化临时文件的处理
-
-        模板编辑界面添加旧的域名编辑支持
-
-        修复来源网站模板管理搜索进入编辑再回来丢失搜索结果问题
+        修复网络书源界面搜索期间按返回键没提示中断搜索，而是直接退出到书架界面的问题；
+        
+        再次优化网络书源界面缓存处理。
     </info>
 
     <!-- 拦截的网站 禁止使用的网站域名列表-->
