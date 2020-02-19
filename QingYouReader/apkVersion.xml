@@ -1,6 +1,6 @@
 <xml>
-    <versionCode>90</versionCode>
-    <versionName>2.56.25</versionName>
+    <versionCode>91</versionCode>
+    <versionName>2.56.26</versionName>
     <name>QingYouReader</name>
     <url>https://raw.githubusercontent.com/fjqingyou/Update/master/QingYouReader/apk/QingYouReader.apk</url>
 
@@ -12,13 +12,15 @@
 
     <!-- 更新日志 -->
     <info>
-        修复局域网共享阅读功能与接受分享功能不正常工作问题；
+        发布新版本：v2.56.26：
 
-        Cookie持久化；
+        处理网络搜索界面无网络环境不会显示本地缓存问题；
 
-        修复网络书源界面搜索期间按返回键没提示中断搜索，而是直接退出到书架界面的问题；
-        
-        再次优化网络书源界面缓存处理。
+        修复书架页面夜间模式特殊颜色可能显示不出顶部文字信息问题；
+
+        语音朗读期间，允许音量键调整朗读的音量；
+
+        修复书架输入关键字到网络搜索会出现正在加载界面问题。
     </info>
 
     <!-- 拦截的网站 禁止使用的网站域名列表-->
