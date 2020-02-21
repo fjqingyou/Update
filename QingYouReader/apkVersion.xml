@@ -1,6 +1,6 @@
 <xml>
-    <versionCode>91</versionCode>
-    <versionName>2.56.26</versionName>
+    <versionCode>92</versionCode>
+    <versionName>2.56.27</versionName>
     <name>QingYouReader</name>
     <url>https://raw.githubusercontent.com/fjqingyou/Update/master/QingYouReader/apk/QingYouReader.apk</url>
 
@@ -12,15 +12,19 @@
 
     <!-- 更新日志 -->
     <info>
-        发布新版本：v2.56.26：
+        发布新版本：2.56.27
 
-        处理网络搜索界面无网络环境不会显示本地缓存问题；
+        多来源用书名和作者同时匹配了才认为是同一个源；
 
-        修复书架页面夜间模式特殊颜色可能显示不出顶部文字信息问题；
+        优化模板的脚本执行环境；
 
-        语音朗读期间，允许音量键调整朗读的音量；
+        换封面有本地缓存源时，更新网络缓存信息；
 
-        修复书架输入关键字到网络搜索会出现正在加载界面问题。
+        修复换源选择缓存源会换源失败的问题；
+
+        修复启动软件在书架界面长按小说出菜单的功能只有一次机会的问题；
+
+        优化导出模板模式选择按钮的文本提示。
     </info>
 
     <!-- 拦截的网站 禁止使用的网站域名列表-->
