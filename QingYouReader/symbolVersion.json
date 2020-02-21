@@ -110,6 +110,12 @@
     ],
     "updateItemList":[
         {
+            "display": "神凑轻小说",
+            "fileName": "www.shencou.com.qySymbol",
+            "hostName": "www.shencou.com",
+            "version": 1
+        },
+        {
             "display": "燃文小说网",
             "fileName": "www.ranwen.la.qySymbol",
             "hostName": "www.ranwen.la",
