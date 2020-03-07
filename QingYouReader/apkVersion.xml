@@ -1,6 +1,6 @@
 <xml>
-    <versionCode>92</versionCode>
-    <versionName>2.56.27</versionName>
+    <versionCode>93</versionCode>
+    <versionName>2.56.28</versionName>
     <name>QingYouReader</name>
     <url>https://raw.githubusercontent.com/fjqingyou/Update/master/QingYouReader/apk/QingYouReader.apk</url>
 
@@ -12,19 +12,21 @@
 
     <!-- 更新日志 -->
     <info>
-        发布新版本：2.56.27
+        发布新版本：2.56.28：
 
-        多来源用书名和作者同时匹配了才认为是同一个源；
+        添加删除章节文件的功能；
 
-        优化模板的脚本执行环境；
+        修复书换源，重新下载未换源部分的章节会失败的问题；
 
-        换封面有本地缓存源时，更新网络缓存信息；
+        处理3个会导致崩溃的bug；
 
-        修复换源选择缓存源会换源失败的问题；
+        优化临时文件清理方案；
 
-        修复启动软件在书架界面长按小说出菜单的功能只有一次机会的问题；
+        下载模板更新忽略 isUpdateReplaceMe 字段；
 
-        优化导出模板模式选择按钮的文本提示。
+        修复一个已知导致 database is locked 的 bug；
+
+        修复cookie没成功序列化问题。
     </info>
 
     <!-- 拦截的网站 禁止使用的网站域名列表-->
