@@ -1,6 +1,6 @@
 <xml>
-    <versionCode>94</versionCode>
-    <versionName>2.56.29</versionName>
+    <versionCode>95</versionCode>
+    <versionName>2.56.30</versionName>
     <name>QingYouReader</name>
     <url>https://raw.githubusercontent.com/fjqingyou/Update/master/QingYouReader/apk/QingYouReader.apk</url>
 
@@ -12,7 +12,7 @@
 
     <!-- 更新日志 -->
     <info>
-        发布新版本：v2.56.29：
+        发布新版本：v2.56.30：
         
         修复一个导致 batabase is locked 的问题
 
