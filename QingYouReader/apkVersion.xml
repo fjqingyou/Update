@@ -1,6 +1,6 @@
 <xml>
-    <versionCode>93</versionCode>
-    <versionName>2.56.28</versionName>
+    <versionCode>94</versionCode>
+    <versionName>2.56.29</versionName>
     <name>QingYouReader</name>
     <url>https://raw.githubusercontent.com/fjqingyou/Update/master/QingYouReader/apk/QingYouReader.apk</url>
 
@@ -12,21 +12,13 @@
 
     <!-- 更新日志 -->
     <info>
-        发布新版本：2.56.28：
+        发布新版本：v2.56.29：
+        
+        修复一个导致 batabase is locked 的问题
 
-        添加删除章节文件的功能；
+        优化书架进入阅读加载时的，避免界面短暂卡死
 
-        修复书换源，重新下载未换源部分的章节会失败的问题；
-
-        处理3个会导致崩溃的bug；
-
-        优化临时文件清理方案；
-
-        下载模板更新忽略 isUpdateReplaceMe 字段；
-
-        修复一个已知导致 database is locked 的 bug；
-
-        修复cookie没成功序列化问题。
+        本地书架中，先删除、再搜索删除的书。。能在搜索结果中找到的问题
     </info>
 
     <!-- 拦截的网站 禁止使用的网站域名列表-->
