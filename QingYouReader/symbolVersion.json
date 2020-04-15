@@ -110,6 +110,12 @@
     ],
     "updateItemList":[
         {
+            "display": "看毛线小说",
+            "fileName": "www.kanmaoxian.com.qySymbol",
+            "hostName": "www.kanmaoxian.com",
+            "version": 1
+        },
+        {
             "display": "神凑轻小说",
             "fileName": "www.shencou.com.qySymbol",
             "hostName": "www.shencou.com",
