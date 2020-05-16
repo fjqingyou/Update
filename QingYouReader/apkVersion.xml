@@ -1,6 +1,6 @@
 <xml>
-    <versionCode>95</versionCode>
-    <versionName>2.56.30</versionName>
+    <versionCode>96</versionCode>
+    <versionName>2.56.31</versionName>
     <name>QingYouReader</name>
     <url>https://raw.githubusercontent.com/fjqingyou/Update/master/QingYouReader/apk/QingYouReader.apk</url>
 
@@ -12,13 +12,13 @@
 
     <!-- 更新日志 -->
     <info>
-        发布新版本：v2.56.30：
-        
-        修复一个导致 batabase is locked 的问题
+        发布新版本：v2.56.31：
 
-        优化书架进入阅读加载时的，避免界面短暂卡死
+        修复本地书架搜索结果，点击和长按的操作没对应上的问题
 
-        本地书架中，先删除、再搜索删除的书。。能在搜索结果中找到的问题
+        阅读中的下载界面添加弹出阅读菜单的功能
+
+        优化目录到章节阅读卡顿问题
     </info>
 
     <!-- 拦截的网站 禁止使用的网站域名列表-->
