@@ -1,6 +1,6 @@
 <xml>
-    <versionCode>96</versionCode>
-    <versionName>2.56.31</versionName>
+    <versionCode>97</versionCode>
+    <versionName>2.56.32</versionName>
     <name>QingYouReader</name>
     <url>https://raw.githubusercontent.com/fjqingyou/Update/master/QingYouReader/apk/QingYouReader.apk</url>
 
@@ -12,13 +12,19 @@
 
     <!-- 更新日志 -->
     <info>
-        发布新版本：v2.56.31：
+        发布新版本：v2.56.32：
+        
+        阅读界面刘海屏沉浸状态栏支持，阅读主菜单重构
 
-        修复本地书架搜索结果，点击和长按的操作没对应上的问题
+        添加分屏支持
 
-        阅读中的下载界面添加弹出阅读菜单的功能
+        修复并优化换源已知问题
 
-        优化目录到章节阅读卡顿问题
+        添加虚拟键盘阅读期间自动隐藏功能
+
+        检测到新章节更新。不重新下载当前章节
+
+        阅读期间检测到更新章节。自动触发下载后续章节-用户配置的数量
     </info>
 
     <!-- 拦截的网站 禁止使用的网站域名列表-->
