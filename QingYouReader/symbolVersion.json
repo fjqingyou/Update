@@ -111,6 +111,12 @@
     ],
     "updateItemList":[
         {
+            "display": "书海阁",
+            "fileName": "www.xinshuhaige.com.qySymbol",
+            "hostName": "www.xinshuhaige.com",
+            "version": 1
+        },
+        {
             "display": "看毛线小说",
             "fileName": "www.kanmaoxian.com.qySymbol",
             "hostName": "www.kanmaoxian.com",
