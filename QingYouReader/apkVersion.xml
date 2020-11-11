@@ -1,6 +1,6 @@
 <xml>
-    <versionCode>97</versionCode>
-    <versionName>2.56.32</versionName>
+    <versionCode>98</versionCode>
+    <versionName>2.56.33</versionName>
     <name>QingYouReader</name>
     <url>https://raw.githubusercontent.com/fjqingyou/Update/master/QingYouReader/apk/QingYouReader.apk</url>
 
@@ -12,19 +12,19 @@
 
     <!-- 更新日志 -->
     <info>
-        发布新版本：v2.56.32：
-        
-        阅读界面刘海屏沉浸状态栏支持，阅读主菜单重构
+        发布新版本：v2.56.33：
 
-        添加分屏支持
+        修复两个已知会导致崩溃的bug
 
-        修复并优化换源已知问题
+        优化非 wifi 状态下章节下载提示出现条件
 
-        添加虚拟键盘阅读期间自动隐藏功能
+        优化系统菜单显示位置
 
-        检测到新章节更新。不重新下载当前章节
+        优化新章节检测检测功能
 
-        阅读期间检测到更新章节。自动触发下载后续章节-用户配置的数量
+        重构阅读界面的 useNewSystemConfig
+
+        修复最后一章时进行换源。可能会导致重复出现新章节更新问题
     </info>
 
     <!-- 拦截的网站 禁止使用的网站域名列表-->
