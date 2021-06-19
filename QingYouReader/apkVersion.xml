@@ -1,6 +1,6 @@
 <xml>
-    <versionCode>98</versionCode>
-    <versionName>2.56.33</versionName>
+    <versionCode>99</versionCode>
+    <versionName>2.56.34</versionName>
     <name>QingYouReader</name>
     <url>https://raw.githubusercontent.com/fjqingyou/Update/master/QingYouReader/apk/QingYouReader.apk</url>
 
@@ -12,19 +12,15 @@
 
     <!-- 更新日志 -->
     <info>
-        发布新版本：v2.56.33：
+        发布新版本：v2.56.34：
 
-        修复两个已知会导致崩溃的bug
+        [首页] - 更新首页加载 
 
-        优化非 wifi 状态下章节下载提示出现条件
+        [阅读] - 显示系统菜单时，不再处理触摸事件 
 
-        优化系统菜单显示位置
+        [搜索] - 无有效 Url 的搜索结果将之忽略掉 
 
-        优化新章节检测检测功能
-
-        重构阅读界面的 useNewSystemConfig
-
-        修复最后一章时进行换源。可能会导致重复出现新章节更新问题
+        [请求] - 处理无 cookie 强制跳转首页问题
     </info>
 
     <!-- 拦截的网站 禁止使用的网站域名列表-->

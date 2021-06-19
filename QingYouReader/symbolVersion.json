@@ -107,15 +107,10 @@
         "www.99shumeng.net",
         "www.wangshuge.com",
         "www.qu.la",
-        "www.biqugex.com"
+        "www.biqugex.com",
+        "www.xinshuhaige.com"
     ],
     "updateItemList":[
-        {
-            "display": "书海阁",
-            "fileName": "www.xinshuhaige.com.qySymbol",
-            "hostName": "www.xinshuhaige.com",
-            "version": 1
-        },
         {
             "display": "看毛线小说",
             "fileName": "www.kanmaoxian.com.qySymbol",
@@ -559,6 +554,18 @@
             "fileName": "www.81zw.com.qySymbol",
             "hostName": "www.81zw.com",
             "version": 10
+        },
+        {
+            "display": "书海阁",
+            "fileName": "www.xinshuhaige.org.qySymbol",
+            "hostName": "www.xinshuhaige.org",
+            "version": 2
+        },
+        {
+            "display": "搜书网_soshuw_com",
+            "fileName": "www.soshuwu.com.qySymbol",
+            "hostName": "www.soshuwu.com",
+            "version": 1
         }
     ]
 }
